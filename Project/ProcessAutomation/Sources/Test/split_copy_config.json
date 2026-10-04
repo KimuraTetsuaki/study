@@ -1,0 +1,7 @@
+{
+  "source": "",
+  "dest": "",
+  "chunk_mb": 100,
+  "start_part": 0,
+  "max_threads": 5
+}
